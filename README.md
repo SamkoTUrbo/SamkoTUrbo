@@ -3,4 +3,3 @@
 - 👀 I’m interested in coding, football, history...
 - 🌱 I’m currently learning SQL and database systems
 - 💞️ I’m looking to collaborate on basically anything what WebDevelping
-- 📫 My instagram: ing.samko
